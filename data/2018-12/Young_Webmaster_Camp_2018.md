@@ -9,7 +9,7 @@ location : คณะเทคโนโลยีสารสนเทศ สถ�
 location URL : https://goo.gl/maps/3jiQ1qoA1XQ2
 
 Organizer : Young Webmaster Camp
-Organizer Fan Page URL: https://www.facebook.com/pg/ywcth/about/?ref=page_internal
+Fan Page URL: https://www.facebook.com/pg/ywcth/about/?ref=page_internal
 
 Register URL : https://ywc16.ywc.in.th/
 Ticket price : Free
