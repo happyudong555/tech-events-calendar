@@ -5,7 +5,7 @@
 Content , Design, Marketing, Programming
 
 date: 22-25 December 2018
-location : คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (IT KMITL)
+location : คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 location URL : https://goo.gl/maps/3jiQ1qoA1XQ2
 
 Organizer : Young Webmaster Camp
